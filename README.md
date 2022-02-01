@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Partha Pratim Sarma</h1>
-<h3 align="center">Frontend developer who aims to write quality code</h3>
+<h3 align="center">A developer who likes buiding and breaking things.</h3>
 
 <div align=center>
 <!--   <a href="https://www.linkedin.com/in/sadanandpai/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> -->
