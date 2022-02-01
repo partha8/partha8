@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Partha Pratim Sarma</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Partha Pratim Sarma</h1>
 <h3 align="center">A developer who likes buiding and breaking things.</h3>
 
 <div align=center>
