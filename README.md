@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Partha Pratim Sarma</h1>
-<h3 align="center">A developer who likes buiding and breaking things.</h3>
+<h3 align="center">A developer who likes building and breaking things.</h3>
 
 <div align=center>
 <!--   <a href="https://www.linkedin.com/in/sadanandpai/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> -->
