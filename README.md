@@ -27,16 +27,16 @@ Please go through my repos, and you might come across something useful.
   
 <br>
   
-<!-- <a href="https://github.com/partha8/github-readme-stats">
+<a href="https://github.com/partha8/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=partha8&theme=radical&hide=glsl,python" />
-</a> -->
+</a>
 <a href="https://github.com/partha8/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=partha8&show_icons=true&theme=radical&line_height=27" alt="partha's github stats" />
 </a>
  
 <br>
   
-  <a href="https://git.io/streak-stats">
+<!--   <a href="https://git.io/streak-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=partha8&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="partha's github stats" />
-</a>
+</a> -->
 
