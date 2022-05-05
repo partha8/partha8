@@ -16,6 +16,9 @@ Please go through my repos, and you might come across something useful.
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Memoization in JavaScript](https://parthasarma.hashnode.dev/memoization-in-javascript)
+- [CSS Units Explained!](https://parthasarma.hashnode.dev/css-units-explained)
+- [Declarative vs Imperative Programming](https://parthasarma.hashnode.dev/declarative-vs-imperative-programming)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- - ⚡ To read my blog post, checkout []() -->
