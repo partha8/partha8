@@ -13,8 +13,8 @@ Please go through my repos, and you might come across something useful.
 
 - 📫 The best way to reach me over is [Twitter](https://twitter.com/partha_sarma8). 
 <!-- - You can also send me a mail to parthasarma34@gmail.com. -->
-
-# Blog posts
+---
+### :closed_book: Lated Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Memoization in JavaScript](https://parthasarma.hashnode.dev/memoization-in-javascript)
 - [CSS Units Explained!](https://parthasarma.hashnode.dev/css-units-explained)
@@ -30,6 +30,9 @@ Please go through my repos, and you might come across something useful.
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="auto" height="40">&nbsp;&nbsp;&nbsp;
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='40' width='auto' alt="js">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+  <img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs" width="auto" height="40"/>
+  <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="firebase" width="auto" height="40"/>
+  
 <p align="center">
   
 <br>
