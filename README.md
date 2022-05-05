@@ -14,6 +14,10 @@ Please go through my repos, and you might come across something useful.
 - 📫 The best way to reach me over is [Twitter](https://twitter.com/partha_sarma8). 
 <!-- - You can also send me a mail to parthasarma34@gmail.com. -->
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- - ⚡ To read my blog post, checkout []() -->
 
 <br>
