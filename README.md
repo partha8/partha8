@@ -16,7 +16,6 @@ Please go through my repos, and you might come across something useful.
 ---
 ### :closed_book: Lated Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [What is Promise.all&lpar;&rpar; and its polyfill!](https://parthasarma.hashnode.dev/what-is-promiseall-and-its-polyfill)
 - [Memoization in JavaScript](https://parthasarma.hashnode.dev/memoization-in-javascript)
 - [CSS Units Explained!](https://parthasarma.hashnode.dev/css-units-explained)
 - [Declarative vs Imperative Programming](https://parthasarma.hashnode.dev/declarative-vs-imperative-programming)
