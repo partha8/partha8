@@ -15,7 +15,7 @@ Please go through my repos, and you might come across something useful.
 - 💬 Ask me about **React, JavaScript, CSS**
 <!-- - You can also send me a mail to parthasarma34@gmail.com. -->
 ---
-### :closed_book: Lated Blog Posts
+### :closed_book: Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Promise.all&lpar;&rpar; and its polyfill](https://parthasarma.hashnode.dev/promiseall-and-its-polyfill)
 - [Memoization in JavaScript](https://parthasarma.hashnode.dev/memoization-in-javascript)
