@@ -12,7 +12,7 @@
 Please go through my repos, and you might come across something useful.
 
 - 📫 The best way to reach me over is [Twitter](https://twitter.com/partha_sarma8). 
-- 💬 Ask me about **React, JavaScript, CSS**
+- 💬 Ask me about **React, JavaScript, CSS, TypeScript, Redux-Toolkit**
 <!-- - You can also send me a mail to parthasarma34@gmail.com. -->
 ---
 ### :closed_book: Blog Posts
