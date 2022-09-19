@@ -10,6 +10,7 @@
 
 - 👨‍💻 I am a front-end developer with a focus on web fundamentals. I am learning full-stack development with a great community at neoG camp. 
 Please go through my repos, and you might come across something useful.
+- Also I'm learning Three.js and Blender3D to create beautiful and interactive experiences for the user!
 
 - 📫 The best way to reach me over is [Twitter](https://twitter.com/partha_sarma8). 
 - 💬 Ask me about **React, JavaScript, CSS, TypeScript, Redux-Toolkit**
