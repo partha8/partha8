@@ -18,6 +18,7 @@ Please go through my repos, and you might come across something useful.
 ---
 ### :closed_book: Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Promise.allSettled&lpar;&rpar; and its polyfill](https://parthasarma.hashnode.dev/promiseallsettled-and-its-polyfill)
 - [Promise.all&lpar;&rpar; and its polyfill](https://parthasarma.hashnode.dev/promiseall-and-its-polyfill)
 - [Memoization in JavaScript](https://parthasarma.hashnode.dev/memoization-in-javascript)
 - [CSS Units Explained!](https://parthasarma.hashnode.dev/css-units-explained)
